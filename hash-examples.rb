@@ -9,3 +9,9 @@ animal = {
   "name" => "Jim",
   "origin" => "africa"
 }
+
+customer = {
+  "name" => "Jim",
+  "age" => "87",
+  "store" => "target"
+}
