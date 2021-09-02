@@ -4,3 +4,8 @@ honda = {
   "transmission" => "automatic",
   "model" => "civic"
   }
+animal = {
+  "species" => "rhino",
+  "name" => "Jim",
+  "origin" => "africa"
+}
